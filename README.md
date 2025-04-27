@@ -16,8 +16,8 @@ Cloud & Data: Azure, MySQL, MongoDB, Pandas, Scikit-learn
 ------
 Featured Projects
 
-Cloud Storage Comparison 
-AI Medical Reports Summarizer
+Cloud Storage Comparison |
+AI Medical Reports Summarizer |
 Local Python Libraries Development part of my internship 
 ------
 Connect With Me
