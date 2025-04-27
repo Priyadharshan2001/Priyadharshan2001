@@ -10,7 +10,7 @@ Passionate about AI, Big Data, and Scalable Software
 ------
 Skills
 
-Languages: Python, Java, SQL, JavaScript
+Languages: Python, Java(Intermediate), SQL, JavaScript
 Frameworks: React.js, Node.js
 Cloud & Data: Azure, MySQL, MongoDB, Pandas, Scikit-learn
 ------
